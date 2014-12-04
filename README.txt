@@ -1,4 +1,6 @@
 
+This will fix the password issue seen with Couchbase . This works with .password file getting saved to HDFS
+
 = Welcome to Sqoop!
 
 This is the Sqoop (SQL-to-Hadoop) tool. Sqoop allows easy imports and
